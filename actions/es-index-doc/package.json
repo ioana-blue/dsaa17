@@ -1,0 +1,8 @@
+{
+  "name": "es-index-doc",
+  "version": "1.0.0",
+  "main": "es-index-doc.js",
+  "dependencies" : {
+     "elasticsearch": "*"
+  }
+}

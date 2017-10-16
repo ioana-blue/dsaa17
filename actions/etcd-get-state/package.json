@@ -1,0 +1,8 @@
+{
+  "name": "etcd-get-state",
+  "version": "1.0.0",
+  "main": "etcd-get-state.js",
+  "dependencies" : {
+     "node-etcd": "*"
+  }
+}

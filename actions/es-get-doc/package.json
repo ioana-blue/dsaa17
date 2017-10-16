@@ -1,0 +1,8 @@
+{
+  "name": "es-get-doc",
+  "version": "1.0.0",
+  "main": "es-get-doc.js",
+  "dependencies" : {
+     "elasticsearch": "*"
+  }
+}
